@@ -1,4 +1,4 @@
-# Max360 Project
+# Maxx360 Project
 
 A modern React application built with Vite, TypeScript, and Tailwind CSS.
 
