@@ -1,0 +1,10 @@
+export { default as IconSport } from "./IconSport";
+export { default as IconLive } from "./IconLive";
+export { default as IconDice } from "./IconDice";
+export { default as IconPromotion } from "./IconPromotion";
+export { default as IconChip } from "./IconChip";
+export { default as IconGame } from "./IconGame";
+export { default as IconChevronDown } from "./IconChevronDown";
+export { default as IconFacebook } from "./IconFacebook";
+export { default as IconX } from "./IconX";
+export { default as IconInstagram } from "./IconInstagram";
